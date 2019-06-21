@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 473b3650504118e40a435d7e68d28a3e
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Leg01
+    100002: Leg02
+    100004: Leg03
+    100006: Leg04
+    100008: Leg05
+    100010: Leg06
+    100012: Leg07
+    100014: Leg08
+    100016: Leg09
+    100018: Leg10
+    100020: Leg11
+    100022: Leg12
+    100024: Leg13
+    100026: Leg14
+    100028: Leg15
+    100030: Leg16
+    100032: Leg17
+    100034: Leg18
+    100036: Leg19
+    100038: Leg20
+    100040: Leg21
+    100042: Leg22
+    100044: Leg23
+    100046: Leg24
+    100048: Leg25
+    100050: Leg26
+    100052: Leg27
+    100054: Leg28
+    100056: Legs
+    100058: Microcontroller
+    100060: //RootNode
+    100062: Text01
+    400000: Leg01
+    400002: Leg02
+    400004: Leg03
+    400006: Leg04
+    400008: Leg05
+    400010: Leg06
+    400012: Leg07
+    400014: Leg08
+    400016: Leg09
+    400018: Leg10
+    400020: Leg11
+    400022: Leg12
+    400024: Leg13
+    400026: Leg14
+    400028: Leg15
+    400030: Leg16
+    400032: Leg17
+    400034: Leg18
+    400036: Leg19
+    400038: Leg20
+    400040: Leg21
+    400042: Leg22
+    400044: Leg23
+    400046: Leg24
+    400048: Leg25
+    400050: Leg26
+    400052: Leg27
+    400054: Leg28
+    400056: Legs
+    400058: Microcontroller
+    400060: //RootNode
+    400062: Text01
+    2100000: 07 - Default
+    2100002: 01 - Default
+    2100004: 02 - Default
+    2300000: Leg01
+    2300002: Leg02
+    2300004: Leg03
+    2300006: Leg04
+    2300008: Leg05
+    2300010: Leg06
+    2300012: Leg07
+    2300014: Leg08
+    2300016: Leg09
+    2300018: Leg10
+    2300020: Leg11
+    2300022: Leg12
+    2300024: Leg13
+    2300026: Leg14
+    2300028: Leg15
+    2300030: Leg16
+    2300032: Leg17
+    2300034: Leg18
+    2300036: Leg19
+    2300038: Leg20
+    2300040: Leg21
+    2300042: Leg22
+    2300044: Leg23
+    2300046: Leg24
+    2300048: Leg25
+    2300050: Leg26
+    2300052: Leg27
+    2300054: Leg28
+    2300056: Microcontroller
+    2300058: Text01
+    3300000: Leg01
+    3300002: Leg02
+    3300004: Leg03
+    3300006: Leg04
+    3300008: Leg05
+    3300010: Leg06
+    3300012: Leg07
+    3300014: Leg08
+    3300016: Leg09
+    3300018: Leg10
+    3300020: Leg11
+    3300022: Leg12
+    3300024: Leg13
+    3300026: Leg14
+    3300028: Leg15
+    3300030: Leg16
+    3300032: Leg17
+    3300034: Leg18
+    3300036: Leg19
+    3300038: Leg20
+    3300040: Leg21
+    3300042: Leg22
+    3300044: Leg23
+    3300046: Leg24
+    3300048: Leg25
+    3300050: Leg26
+    3300052: Leg27
+    3300054: Leg28
+    3300056: Microcontroller
+    3300058: Text01
+    4300000: Text01
+    4300002: Microcontroller
+    4300004: Leg26
+    4300006: Leg25
+    4300008: Leg02
+    4300010: Leg03
+    4300012: Leg04
+    4300014: Leg05
+    4300016: Leg06
+    4300018: Leg07
+    4300020: Leg08
+    4300022: Leg09
+    4300024: Leg10
+    4300026: Leg11
+    4300028: Leg12
+    4300030: Leg13
+    4300032: Leg24
+    4300034: Leg15
+    4300036: Leg16
+    4300038: Leg17
+    4300040: Leg18
+    4300042: Leg19
+    4300044: Leg20
+    4300046: Leg21
+    4300048: Leg22
+    4300050: Leg23
+    4300052: Leg27
+    4300054: Leg14
+    4300056: Leg01
+    4300058: Leg28
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

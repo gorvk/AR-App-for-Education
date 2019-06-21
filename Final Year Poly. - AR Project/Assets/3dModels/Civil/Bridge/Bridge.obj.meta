@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 3bf51eeff60922b46a66cf031f195458
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ARCHFACE01
+    100002: ARCHHANG01
+    100004: ARCHSPAC01
+    100006: ARCHZIGZ01
+    100008: ARMCOFAC01
+    100010: BLOCKSID01
+    100012: //RootNode
+    100014: FIXTURES01
+    100016: GRASSFAC01
+    100018: LIGHTARM01
+    100020: LINESFAC01
+    100022: POLEFACE01
+    100024: PYLONFAC01
+    100026: PYLONJOI01
+    100028: PYLONTUN01
+    100030: RAILINGS01
+    100032: ROADWAYF01
+    100034: SEAROADF01
+    100036: SEAWALLF01
+    100038: UNDERROA01
+    100040: UNDERROA02
+    400000: ARCHFACE01
+    400002: ARCHHANG01
+    400004: ARCHSPAC01
+    400006: ARCHZIGZ01
+    400008: ARMCOFAC01
+    400010: BLOCKSID01
+    400012: //RootNode
+    400014: FIXTURES01
+    400016: GRASSFAC01
+    400018: LIGHTARM01
+    400020: LINESFAC01
+    400022: POLEFACE01
+    400024: PYLONFAC01
+    400026: PYLONJOI01
+    400028: PYLONTUN01
+    400030: RAILINGS01
+    400032: ROADWAYF01
+    400034: SEAROADF01
+    400036: SEAWALLF01
+    400038: UNDERROA01
+    400040: UNDERROA02
+    2100000: ARCHFACE01Mat
+    2100002: ARCHHANG01Mat
+    2100004: ARCHSPAC01Mat
+    2100006: ARCHZIGZ01Mat
+    2100008: ARMCOFAC01Mat
+    2100010: BLOCKSID01Mat
+    2100012: FIXTURES01Mat
+    2100014: GRASSFAC01Mat
+    2100016: LIGHTARM01Mat
+    2100018: LINESFAC01Mat
+    2100020: POLEFACE01Mat
+    2100022: PYLONFAC01Mat
+    2100024: PYLONJOI01Mat
+    2100026: PYLONTUN01Mat
+    2100028: RAILINGS01Mat
+    2100030: ROADWAYF01Mat
+    2100032: SEAROADF01Mat
+    2100034: SEAWALLF01Mat
+    2100036: UNDERROA01Mat
+    2100038: UNDERROA02Mat
+    2300000: ARCHFACE01
+    2300002: ARCHHANG01
+    2300004: ARCHSPAC01
+    2300006: ARCHZIGZ01
+    2300008: ARMCOFAC01
+    2300010: BLOCKSID01
+    2300012: FIXTURES01
+    2300014: GRASSFAC01
+    2300016: LIGHTARM01
+    2300018: LINESFAC01
+    2300020: POLEFACE01
+    2300022: PYLONFAC01
+    2300024: PYLONJOI01
+    2300026: PYLONTUN01
+    2300028: RAILINGS01
+    2300030: ROADWAYF01
+    2300032: SEAROADF01
+    2300034: SEAWALLF01
+    2300036: UNDERROA01
+    2300038: UNDERROA02
+    3300000: ARCHFACE01
+    3300002: ARCHHANG01
+    3300004: ARCHSPAC01
+    3300006: ARCHZIGZ01
+    3300008: ARMCOFAC01
+    3300010: BLOCKSID01
+    3300012: FIXTURES01
+    3300014: GRASSFAC01
+    3300016: LIGHTARM01
+    3300018: LINESFAC01
+    3300020: POLEFACE01
+    3300022: PYLONFAC01
+    3300024: PYLONJOI01
+    3300026: PYLONTUN01
+    3300028: RAILINGS01
+    3300030: ROADWAYF01
+    3300032: SEAROADF01
+    3300034: SEAWALLF01
+    3300036: UNDERROA01
+    3300038: UNDERROA02
+    4300000: ARCHFACE01
+    4300002: ARCHHANG01
+    4300004: ARCHSPAC01
+    4300006: ARCHZIGZ01
+    4300008: ARMCOFAC01
+    4300010: BLOCKSID01
+    4300012: FIXTURES01
+    4300014: GRASSFAC01
+    4300016: LIGHTARM01
+    4300018: LINESFAC01
+    4300020: POLEFACE01
+    4300022: PYLONFAC01
+    4300024: PYLONJOI01
+    4300026: PYLONTUN01
+    4300028: RAILINGS01
+    4300030: ROADWAYF01
+    4300032: SEAROADF01
+    4300034: SEAWALLF01
+    4300036: UNDERROA01
+    4300038: UNDERROA02
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

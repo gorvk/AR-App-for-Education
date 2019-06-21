@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Microoooooooooo" size="0.060000 0.060000" />
+    <ImageTarget name="RobotImg" size="0.060000 0.061967" />
+    <ImageTarget name="Bridge222" size="0.060000 0.040000" />
+    <ImageTarget name="Buildingimg" size="0.060000 0.039718" />
+    <ImageTarget name="AssemblyArm" size="0.060000 0.060226" />
+    <ImageTarget name="engine" size="0.060000 0.046083" />
+    <ImageTarget name="SuperComputer" size="0.090000 0.046575" />
+    <ImageTarget name="graphicsImg" size="0.060000 0.039931" />
+    <ImageTarget name="heartimg" size="0.060000 0.064154" />
+    <ImageTarget name="BrainImg" size="0.060000 0.048000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: f6b8a448e26c3e540a042fb0cbcbeef1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: balcony
+    100002: barrels
+    100004: barrels_front
+    100006: boards
+    100008: boards_001
+    100010: //RootNode
+    100012: building_walls
+    100014: chimney
+    100016: door_enter
+    100018: eneter_floor
+    100020: foundation_wall
+    100022: gutters_002
+    100024: gutters_003
+    100026: metal_cover
+    100028: roof
+    100030: roof_plate
+    100032: terrace
+    100034: window_005
+    100036: window_roof
+    400000: balcony
+    400002: barrels
+    400004: barrels_front
+    400006: boards
+    400008: boards_001
+    400010: //RootNode
+    400012: building_walls
+    400014: chimney
+    400016: door_enter
+    400018: eneter_floor
+    400020: foundation_wall
+    400022: gutters_002
+    400024: gutters_003
+    400026: metal_cover
+    400028: roof
+    400030: roof_plate
+    400032: terrace
+    400034: window_005
+    400036: window_roof
+    2100000: metal_grey
+    2100002: foundation_grey_brick
+    2100004: curb
+    2100006: plaster_grey
+    2100008: wood_balls_brown
+    2100010: window_glass
+    2100012: plaster_white
+    2100014: plate_white
+    2100016: parapet
+    2100018: wood_brown
+    2300000: balcony
+    2300002: barrels
+    2300004: barrels_front
+    2300006: boards
+    2300008: boards_001
+    2300010: building_walls
+    2300012: chimney
+    2300014: door_enter
+    2300016: eneter_floor
+    2300018: foundation_wall
+    2300020: gutters_002
+    2300022: gutters_003
+    2300024: metal_cover
+    2300026: roof
+    2300028: roof_plate
+    2300030: terrace
+    2300032: window_005
+    2300034: window_roof
+    3300000: balcony
+    3300002: barrels
+    3300004: barrels_front
+    3300006: boards
+    3300008: boards_001
+    3300010: building_walls
+    3300012: chimney
+    3300014: door_enter
+    3300016: eneter_floor
+    3300018: foundation_wall
+    3300020: gutters_002
+    3300022: gutters_003
+    3300024: metal_cover
+    3300026: roof
+    3300028: roof_plate
+    3300030: terrace
+    3300032: window_005
+    3300034: window_roof
+    4300000: gutters_003
+    4300002: terrace
+    4300004: gutters_002
+    4300006: chimney
+    4300008: eneter_floor
+    4300010: boards_001
+    4300012: boards
+    4300014: roof_plate
+    4300016: roof
+    4300018: barrels
+    4300020: metal_cover
+    4300022: balcony
+    4300024: building_walls
+    4300026: foundation_wall
+    4300028: window_005
+    4300030: door_enter
+    4300032: window_roof
+    4300034: barrels_front
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
