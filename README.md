@@ -1,4 +1,4 @@
-# VR-App-for-Education
+# AR-App-for-Education
 
 ## PROBLEM DEFINITION :
 
