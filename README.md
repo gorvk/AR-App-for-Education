@@ -24,7 +24,7 @@ This is how our app Augments the 3d model after detecting the image.
 
 There is a [Images](./READMEstuff/Images) folder which can be used with our App which is present in RELEASES.
 
-Full video of Demonstration of our app is available at [My Twitter Feed](https://twitter.com/gouravkolhatkar).
+Full video of Demonstration of our app is available at [My Twitter Feed](https://twitter.com/gouravkolhatkar/status/1309843990406021121?s=19).
 
 </br>
 
