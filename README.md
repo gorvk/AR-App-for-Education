@@ -7,7 +7,7 @@ Our App is made with Unity3d Game Engine, which uses C# language. We have also u
 <b>[Vufoira SDK](https://developer.vuforia.com/)</b> -</br>
 Vuforia is an augmented reality software development kit (SDK) for mobile devices that enables the creation of augmented reality applications.
 
-![Image Processing](./READMEstuff/Image_Processing.png)
+![Image_Processing](https://user-images.githubusercontent.com/52004037/213904262-ab3e380c-ee97-4b41-9d4a-1b26a76ccea8.png)
 
 </br>
 
@@ -15,10 +15,10 @@ Vuforia is an augmented reality software development kit (SDK) for mobile device
 </br>
 
 This is how our Home Screen looks which have Various buttons which takes you to the particular camera module for detects and Augments a 3d model.
-![Demo](./READMEstuff/Layout.png)
+![Layout](https://user-images.githubusercontent.com/52004037/213904232-8c0b6e50-da89-430f-90f8-587abebec040.png)
 
 This is how our app Augments the 3d model after detecting the image.
-![Demo](./READMEstuff/Demo.png)
+![Demo](https://user-images.githubusercontent.com/52004037/213904244-07025d9b-30ca-4f59-b932-2e17fc045aad.png)
 
 </br>
 
@@ -29,4 +29,4 @@ Full video of Demonstration of our app is available at [My Twitter Feed](https:/
 </br>
 
 **ER Diagram of Our App** -
-![Demo](./READMEstuff/ER_Diagram.png)
+![ER_Diagram](https://user-images.githubusercontent.com/52004037/213904277-69ae8aea-eb92-4ecc-b903-0e712a4692ca.png)
